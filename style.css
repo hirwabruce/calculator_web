@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #080808;
 }
 
 .calculator {
@@ -29,7 +29,7 @@ body {
 
 button {
     height: 60px;
-    font-size: 20px;
+    font-size: 22px;
     cursor: pointer;
     
 }
